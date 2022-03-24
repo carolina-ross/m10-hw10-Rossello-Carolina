@@ -97,7 +97,7 @@ section.hero > .call-to-action {
   margin: 0;
 }
 
-section.hero > button {
+.button {
   background-color: var(--secondary-color);
   border: none;
   padding: 12px 24px;
@@ -123,7 +123,7 @@ main > article img {
   margin-bottom: 6px;
 }
 
-footer {
+.footer {
   margin-top: auto;
   background-color: var(--gray);
   text-align: center;
